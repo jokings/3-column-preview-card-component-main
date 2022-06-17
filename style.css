@@ -10,12 +10,13 @@ body {
     align-items: center;
     flex-direction: column;
     font-family: 'Lexend Deca', sans-serif;
+    min-height: 100vh;
+    padding: 170px 50px 100px;
 }
 
 main {
     display: flex;
     width: min(70%, 60rem);
-    margin: 150px 0 150px 0 ;
 }
 
 section {
@@ -44,7 +45,7 @@ h2 {
 .sedan-para{
     font-size: 16px;
     margin: 0 0 80px;
-    color:  hsla(0, 0%, 100%, 0.75);
+    color:  hsl(0, 0%, 95%);
     font-family: 'Lexend Deca', sans-serif;
     line-height: 1.5;
 }
@@ -72,7 +73,7 @@ h2 {
 .suv-para {
     font-size: 16px;
     margin: 0 0 80px;
-    color:  hsla(0, 0%, 100%, 0.75);
+    color:  hsl(0, 0%, 95%);
     font-family: 'Lexend Deca', sans-serif;
     line-height: 1.5;
 }
@@ -102,7 +103,7 @@ h2 {
 .luxury-para{
     font-size: 16px;
     margin: 0 0 80px;
-    color:  hsla(0, 0%, 100%, 0.75);
+    color:  hsl(0, 0%, 95%);
     font-family: 'Lexend Deca', sans-serif;
     line-height: 1.5;
 }
@@ -126,6 +127,7 @@ h2 {
     font-size: 16px; 
     text-align: center; 
     margin-bottom: 50px;
+    margin-top: 50px;
 }
     
 .attribution a { 
