@@ -44,7 +44,7 @@ h2 {
 .sedan-para{
     font-size: 16px;
     margin: 0 0 80px;
-    color:  hsl(0, 0%, 95%);
+    color:  hsla(0, 0%, 100%, 0.75);
     font-family: 'Lexend Deca', sans-serif;
     line-height: 1.5;
 }
@@ -72,7 +72,7 @@ h2 {
 .suv-para {
     font-size: 16px;
     margin: 0 0 80px;
-    color:  hsl(0, 0%, 95%);
+    color:  hsla(0, 0%, 100%, 0.75);
     font-family: 'Lexend Deca', sans-serif;
     line-height: 1.5;
 }
@@ -102,7 +102,7 @@ h2 {
 .luxury-para{
     font-size: 16px;
     margin: 0 0 80px;
-    color:  hsl(0, 0%, 95%);
+    color:  hsla(0, 0%, 100%, 0.75);
     font-family: 'Lexend Deca', sans-serif;
     line-height: 1.5;
 }
